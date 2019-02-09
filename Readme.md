@@ -7,6 +7,6 @@ UX / Web Designer course
 
 Course outline:
 - SCM - Source control management (git)
-- HTML
+- HTML: https://www.w3schools.com/html/default.asp
 - CSS
 
