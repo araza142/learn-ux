@@ -1,0 +1,6 @@
+# Lab-1a: Nested tables
+
+
+1. Create a new page lab1a.html in existing UX repo in lab folder
+2. Write HTML code to create  a hierarchical table shown in "learn-ux\labs\data\lab-1a_1.jpg"
+3. Create a link on index.html to go to lab1a.html and a link to go back to home page (index page)
